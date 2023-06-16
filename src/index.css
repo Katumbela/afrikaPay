@@ -1,8 +1,7 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  /* font-family: 'Outfit', sans-serif; */
+  font-family: 'Russo One', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -10,6 +9,11 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.navbar-nav li a:hover{ 
+  color: #2023ff;
+  transition: .3s;
 }
 
 .h-100 {
@@ -50,8 +54,21 @@ body {
 
 /* Estilos do Hero Section */
 .hero-section {
-  padding: 100px 0;
-  background-color: #ffd8d8;
+  padding-top: 100px ;
+  padding-bottom: 50px ;
+  background-color: #ffffff;
+}
+
+.w-lg-50 {
+  width: 80%;
+}
+
+@media (min-width: 600px) {
+  
+.w-lg-50 {
+  width: 55%;
+}
+
 }
 
 .hero-title {
@@ -69,13 +86,13 @@ body {
 }
 
 .btn-primary {
-  background-color: #e20000;
-  border-color: #e20000;
+  background-color: #2023ff;
+  border-color: #2023ff;
 }
 
 .btn-primary:hover {
-  background-color: #e20000bd;
-  border-color: #e20000;
+  background-color: #2023ffbd;
+  border-color: #2023ff;
 }
 
 /* Estilos do Features Section */
@@ -134,7 +151,7 @@ body {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 2px solid red;
+  border: 2px solid #2023ff;
 }
 
 .team-member-name {
@@ -258,13 +275,18 @@ ul li {
 
 .form-control:focus-within {
   box-shadow: none;
-  border-color: rgb(208, 26, 26);
+  border-color:#2023ff;
 }
-
+.text-afri {
+  color: #2023ff!important;
+}
+.bg-afri {
+  background: #2023ff!important;
+}
 .foo {
   font-size: 13px;
 }
 
-.feature-icon {
-  height: 5.5em;
+.feature-icon, .step-icon {
+  height: 8.5em;
 }
