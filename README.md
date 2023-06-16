@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+### `Afrika Pay Transfer Money - CryMoney`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is being developed by Angolan engeneers as contributors
 
-## Available Scripts
+### `Available Services`
+
+<br>
+# A resolução do problema de acesso limitado aos sistemas de pagamento digital na África é crucial por várias razões:
+
+1. Inclusão Financeira: Ao superar as restrições existentes, a CryMoney permite que mais pessoas tenham acesso aos serviços financeiros digitais, promovendo a inclusão financeira e reduzindo a exclusão econômica.
+
+2. Eficiência e Conveniência: As soluções tradicionais de pagamento são muitas vezes demoradas, burocráticas e caras. A CryMoney oferece uma plataforma digital eficiente e conveniente, facilitando transações rápidas e acessíveis.
+
+3. Segurança e Confiança: A falta de soluções locais de pagamento digital expõe os usuários a riscos de fraude e insegurança. A CryMoney prioriza a segurança dos usuários, garantindo transações seguras e confiáveis em um ambiente protegido.
+
+4. Estímulo Econômico: Ao facilitar transações comerciais e financeiras, a CryMoney impulsiona o desenvolvimento econômico na África, estimulando o crescimento de negócios e aumentando as oportunidades de comércio local e internacional.
+
+5. Potencial de Crescimento: Com a crescente adoção de serviços financeiros digitais, a demanda por soluções acessíveis e eficientes está em ascensão. A CryMoney está bem posicionada para aproveitar esse mercado em expansão e crescer junto com ele.
+
+Em resumo, resolver o problema de acesso limitado aos sistemas de pagamento digital na África é crucial para promover a inclusão financeira, melhorar a eficiência das transações, garantir a segurança dos usuários, impulsionar o desenvolvimento econômico e aproveitar o potencial de crescimento do mercado. A CryMoney está comprometida em fornecer uma solução abrangente e inovadora para atender às necessidades financeiras da população africana.
 
 In the project directory, you can run:
 
-### `npm start`
+### `About this Project`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Para resolver o problema de acesso limitado aos sistemas de pagamento digital na África, a CryMoney oferece uma solução abrangente e inovadora. Algumas características do nosso produto/solução incluem:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Plataforma de pagamentos digital: Desenvolvemos uma plataforma fácil de usar, segura e intuitiva, que permite aos usuários realizar transações digitais de forma conveniente e eficiente.
 
-### `npm test`
+2. Integração com criptomoedas: Nossa plataforma suporta o uso de criptomoedas, permitindo que os usuários aproveitem os benefícios das transações digitais descentralizadas e protegidas pela tecnologia blockchain.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. Gateways de pagamento: Estabelecemos parcerias com provedores de serviços e estabelecimentos locais, permitindo que os usuários realizem pagamentos em diversos pontos de venda e plataformas online, expandindo as opções de uso das criptomoedas.
 
-### `npm run build`
+4. Programa de incentivos: Implementamos um programa de recompensas e comissões para os usuários que realizarem transações e promoverem o uso da CryMoney, incentivando o engajamento e a adoção do nosso sistema.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5. Segurança avançada: Implementamos medidas de segurança robustas, como autenticação de dois fatores, criptografia de dados e proteção contra fraudes, garantindo a proteção dos dados e das transações dos usuários.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+6. Suporte ao cliente: Oferecemos suporte ao cliente dedicado, pronto para responder às dúvidas e solucionar qualquer problema que os usuários possam encontrar durante o uso da nossa plataforma.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Ao fornecer uma solução abrangente e inovadora, a CryMoney está capacitando os usuários a superarem as restrições do sistema de pagamento tradicional, permitindo-lhes gastar suas criptomoedas localmente, realizar transações digitais de forma segura e eficiente, e contribuir para o crescimento econômico e inclusão financeira na África.
