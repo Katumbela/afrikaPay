@@ -90,6 +90,17 @@ body {
   border-color: #2023ff;
 }
 
+.btn-outline-primary:hover {
+  color:white!important;
+  background-color: #2023ff;
+  border-color: #2023ff;
+}
+
+.btn-outline-primary {
+  color: #2023ff;
+  border-color: #2023ff;
+}
+
 .btn-primary:hover {
   background-color: #2023ffbd;
   border-color: #2023ff;
