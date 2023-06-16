@@ -3,6 +3,9 @@ import '../components/cabeca.css'
 import b from '../img/logo.png';
 import logo from '../img/logo1.png';
 import katumbela from '../img/katumbela.JPG';
+import tavares from '../img/tavares.jpeg';
+import gneto from '../img/gneto.jpeg';
+import user from '../img/user.png';
 import logo1 from '../img/logo2.png';
 import logoo from '../img/logoo.png';
 import Header from '../components/header';
@@ -118,21 +121,21 @@ function Home() {
         </div>
         <div className="col-md-4 col-lg-3 my-3">
           <div className="team-member">
-            <img src={katumbela} alt="Membro da Equipe" className="team-member-photo"/>
+            <img src={gneto} alt="Membro da Equipe" className="team-member-photo"/>
             <h3 className="team-member-name">Josefino Miguel</h3>
             <p className="team-member-position">CFO & Dir. Operacional</p>
           </div>
         </div>
         <div className="col-md-4 col-lg-3 my-3">
           <div className="team-member">
-            <img src={katumbela} alt="Membro da Equipe" className="team-member-photo"/>
+            <img src={user} alt="Membro da Equipe" className="team-member-photo"/>
             <h3 className="team-member-name">Gonçalo Gonçalves</h3>
             <p className="team-member-position">COO & Design</p>
           </div>
         </div>
         <div className="col-md-4 col-lg-3 my-3">
           <div className="team-member">
-            <img src={katumbela} alt="Membro da Equipe" className="team-member-photo"/>
+            <img src={tavares} alt="Membro da Equipe" className="team-member-photo"/>
             <h3 className="team-member-name">Tavares Evaristo</h3>
             <p className="team-member-position">CTO & Dev.</p>
           </div>
