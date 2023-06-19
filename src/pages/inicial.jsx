@@ -46,7 +46,7 @@ function Home() {
           </div>
         </div>
       </section>
-
+      //
       <section id='waiting-list' className='bg-afri text-center py-3 py-md-5'>
         <div className='w-lg-50 mx-auto'>
           <h2 className="text-white">Junte se à Lista de espera</h2>
