@@ -112,7 +112,7 @@ function Home() {
                 Gaste Suas cryptos localmente e obtenha um cartão digital para este efeito
               </h1>
               <br />
-              <button className="btn btn-primary">Junte-se</button>
+              <a href='#waiting-list' className="btn btn-primary">Junte-se</a>
             </div>
           </div>
           <div className="col-12 col-sm-6">
