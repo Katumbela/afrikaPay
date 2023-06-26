@@ -142,8 +142,8 @@ function Home() {
           <div className="row">
             <div className="col-md-6">
               <h1 className="hero-title">Envie dinheiro para qualquer lugar do mundo de forma rápida e segura.</h1>
-              <p className="hero-description">Com o CryMoney, você pode transferir dinheiro para qualquer pessoa, em qualquer lugar do mundo, de maneira rápida, segura e sem taxas de transação ou manutenção. Experimente agora mesmo!</p>
-              <a href="#waiting-list" className="btn btn-primary">Crie sua conta <i className="bi bi-arrow-right-short"></i></a>
+              <p className="hero-description">Com o CryMoney, você pode transferir dinheiro para qualquer pessoa, em qualquer lugar do mundo, de maneira rápida, segura e sem taxas de transação ou manutenção para usuarios cadastrados na plataforma. Experimente agora mesmo!</p>
+              <a href="#waiting-list" className="btn btn-primary">Crie sua conta<i className="bi bi-arrow-right-short"></i></a>
             </div>
             <div className="col-md-6 text-center">
               <img src={purp} alt="Envie dinheiro com o CryMoney" className="img-fluid" />
