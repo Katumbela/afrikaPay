@@ -5,7 +5,7 @@ import Header from '../components/header';
 import Footer from '../components/footer';
 
 function Dash() {
-  document.title ='Dashboard Afrika Pay | Afrika Pay'
+  document.title ='Dashboard CryMoney | CryMoney'
   return (
     <div classNameName="">
       <Header />

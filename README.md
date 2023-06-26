@@ -1,4 +1,4 @@
-### `Afrika Pay Transfer Money - CryMoney`
+### `CryMoney Transfer Money - CryMoney`
 
 This project is being developed by Angolan engeneers as contributors
 
